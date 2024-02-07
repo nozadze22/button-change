@@ -25,5 +25,6 @@ love.addEventListener("click",() => {
 front.style.display = "none";
 back.style.display ="block";
 afro.style.display = 'block';
+catchme.style.display = "none"
 
 });
